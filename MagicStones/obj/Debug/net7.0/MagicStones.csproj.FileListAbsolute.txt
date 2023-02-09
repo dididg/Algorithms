@@ -1,0 +1,15 @@
+C:\Users\adrie\Documents\GitHub\Algorithms\MagicStones\obj\Debug\net7.0\MagicStones.csproj.AssemblyReference.cache
+C:\Users\adrie\Documents\GitHub\Algorithms\MagicStones\obj\Debug\net7.0\MagicStones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\Documents\GitHub\Algorithms\MagicStones\obj\Debug\net7.0\MagicStones.AssemblyInfoInputs.cache
+C:\Users\adrie\Documents\GitHub\Algorithms\MagicStones\obj\Debug\net7.0\MagicStones.AssemblyInfo.cs
+C:\Users\adrie\Documents\GitHub\Algorithms\MagicStones\obj\Debug\net7.0\MagicStones.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Documents\GitHub\Algorithms\MagicStones\bin\Debug\net7.0\MagicStones.exe
+C:\Users\adrie\Documents\GitHub\Algorithms\MagicStones\bin\Debug\net7.0\MagicStones.deps.json
+C:\Users\adrie\Documents\GitHub\Algorithms\MagicStones\bin\Debug\net7.0\MagicStones.runtimeconfig.json
+C:\Users\adrie\Documents\GitHub\Algorithms\MagicStones\bin\Debug\net7.0\MagicStones.dll
+C:\Users\adrie\Documents\GitHub\Algorithms\MagicStones\bin\Debug\net7.0\MagicStones.pdb
+C:\Users\adrie\Documents\GitHub\Algorithms\MagicStones\obj\Debug\net7.0\MagicStones.dll
+C:\Users\adrie\Documents\GitHub\Algorithms\MagicStones\obj\Debug\net7.0\refint\MagicStones.dll
+C:\Users\adrie\Documents\GitHub\Algorithms\MagicStones\obj\Debug\net7.0\MagicStones.pdb
+C:\Users\adrie\Documents\GitHub\Algorithms\MagicStones\obj\Debug\net7.0\MagicStones.genruntimeconfig.cache
+C:\Users\adrie\Documents\GitHub\Algorithms\MagicStones\obj\Debug\net7.0\ref\MagicStones.dll

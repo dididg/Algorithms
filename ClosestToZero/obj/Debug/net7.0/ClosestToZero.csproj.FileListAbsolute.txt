@@ -1,0 +1,15 @@
+C:\Users\adrie\Documents\GitHub\Algorithms\ClosestToZero\obj\Debug\net7.0\ClosestToZero.csproj.AssemblyReference.cache
+C:\Users\adrie\Documents\GitHub\Algorithms\ClosestToZero\obj\Debug\net7.0\ClosestToZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\Documents\GitHub\Algorithms\ClosestToZero\obj\Debug\net7.0\ClosestToZero.AssemblyInfoInputs.cache
+C:\Users\adrie\Documents\GitHub\Algorithms\ClosestToZero\obj\Debug\net7.0\ClosestToZero.AssemblyInfo.cs
+C:\Users\adrie\Documents\GitHub\Algorithms\ClosestToZero\obj\Debug\net7.0\ClosestToZero.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Documents\GitHub\Algorithms\ClosestToZero\bin\Debug\net7.0\ClosestToZero.exe
+C:\Users\adrie\Documents\GitHub\Algorithms\ClosestToZero\bin\Debug\net7.0\ClosestToZero.deps.json
+C:\Users\adrie\Documents\GitHub\Algorithms\ClosestToZero\bin\Debug\net7.0\ClosestToZero.runtimeconfig.json
+C:\Users\adrie\Documents\GitHub\Algorithms\ClosestToZero\bin\Debug\net7.0\ClosestToZero.dll
+C:\Users\adrie\Documents\GitHub\Algorithms\ClosestToZero\bin\Debug\net7.0\ClosestToZero.pdb
+C:\Users\adrie\Documents\GitHub\Algorithms\ClosestToZero\obj\Debug\net7.0\ClosestToZero.dll
+C:\Users\adrie\Documents\GitHub\Algorithms\ClosestToZero\obj\Debug\net7.0\refint\ClosestToZero.dll
+C:\Users\adrie\Documents\GitHub\Algorithms\ClosestToZero\obj\Debug\net7.0\ClosestToZero.pdb
+C:\Users\adrie\Documents\GitHub\Algorithms\ClosestToZero\obj\Debug\net7.0\ClosestToZero.genruntimeconfig.cache
+C:\Users\adrie\Documents\GitHub\Algorithms\ClosestToZero\obj\Debug\net7.0\ref\ClosestToZero.dll

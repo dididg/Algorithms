@@ -1,0 +1,15 @@
+C:\Users\adrie\Documents\GitHub\Algorithms\LuckyMoney\obj\Debug\net7.0\LuckyMoney.csproj.AssemblyReference.cache
+C:\Users\adrie\Documents\GitHub\Algorithms\LuckyMoney\obj\Debug\net7.0\LuckyMoney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\Documents\GitHub\Algorithms\LuckyMoney\obj\Debug\net7.0\LuckyMoney.AssemblyInfoInputs.cache
+C:\Users\adrie\Documents\GitHub\Algorithms\LuckyMoney\obj\Debug\net7.0\LuckyMoney.AssemblyInfo.cs
+C:\Users\adrie\Documents\GitHub\Algorithms\LuckyMoney\obj\Debug\net7.0\LuckyMoney.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Documents\GitHub\Algorithms\LuckyMoney\bin\Debug\net7.0\LuckyMoney.exe
+C:\Users\adrie\Documents\GitHub\Algorithms\LuckyMoney\bin\Debug\net7.0\LuckyMoney.deps.json
+C:\Users\adrie\Documents\GitHub\Algorithms\LuckyMoney\bin\Debug\net7.0\LuckyMoney.runtimeconfig.json
+C:\Users\adrie\Documents\GitHub\Algorithms\LuckyMoney\bin\Debug\net7.0\LuckyMoney.dll
+C:\Users\adrie\Documents\GitHub\Algorithms\LuckyMoney\bin\Debug\net7.0\LuckyMoney.pdb
+C:\Users\adrie\Documents\GitHub\Algorithms\LuckyMoney\obj\Debug\net7.0\LuckyMoney.dll
+C:\Users\adrie\Documents\GitHub\Algorithms\LuckyMoney\obj\Debug\net7.0\refint\LuckyMoney.dll
+C:\Users\adrie\Documents\GitHub\Algorithms\LuckyMoney\obj\Debug\net7.0\LuckyMoney.pdb
+C:\Users\adrie\Documents\GitHub\Algorithms\LuckyMoney\obj\Debug\net7.0\LuckyMoney.genruntimeconfig.cache
+C:\Users\adrie\Documents\GitHub\Algorithms\LuckyMoney\obj\Debug\net7.0\ref\LuckyMoney.dll

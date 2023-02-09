@@ -1,0 +1,15 @@
+C:\Users\adrie\Documents\GitHub\Algorithms\AsciiArt\obj\Debug\net7.0\AsciiArt.csproj.AssemblyReference.cache
+C:\Users\adrie\Documents\GitHub\Algorithms\AsciiArt\obj\Debug\net7.0\AsciiArt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\Documents\GitHub\Algorithms\AsciiArt\obj\Debug\net7.0\AsciiArt.AssemblyInfoInputs.cache
+C:\Users\adrie\Documents\GitHub\Algorithms\AsciiArt\obj\Debug\net7.0\AsciiArt.AssemblyInfo.cs
+C:\Users\adrie\Documents\GitHub\Algorithms\AsciiArt\obj\Debug\net7.0\AsciiArt.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Documents\GitHub\Algorithms\AsciiArt\bin\Debug\net7.0\AsciiArt.exe
+C:\Users\adrie\Documents\GitHub\Algorithms\AsciiArt\bin\Debug\net7.0\AsciiArt.deps.json
+C:\Users\adrie\Documents\GitHub\Algorithms\AsciiArt\bin\Debug\net7.0\AsciiArt.runtimeconfig.json
+C:\Users\adrie\Documents\GitHub\Algorithms\AsciiArt\bin\Debug\net7.0\AsciiArt.dll
+C:\Users\adrie\Documents\GitHub\Algorithms\AsciiArt\bin\Debug\net7.0\AsciiArt.pdb
+C:\Users\adrie\Documents\GitHub\Algorithms\AsciiArt\obj\Debug\net7.0\AsciiArt.dll
+C:\Users\adrie\Documents\GitHub\Algorithms\AsciiArt\obj\Debug\net7.0\refint\AsciiArt.dll
+C:\Users\adrie\Documents\GitHub\Algorithms\AsciiArt\obj\Debug\net7.0\AsciiArt.pdb
+C:\Users\adrie\Documents\GitHub\Algorithms\AsciiArt\obj\Debug\net7.0\AsciiArt.genruntimeconfig.cache
+C:\Users\adrie\Documents\GitHub\Algorithms\AsciiArt\obj\Debug\net7.0\ref\AsciiArt.dll
