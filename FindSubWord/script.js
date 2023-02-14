@@ -1,6 +1,5 @@
 function processData(input) {
     let inputs = input.split('\n');
-    //Enter your code here
     const n = Number.parseInt(inputs[0])
     console.error("sentence number: " + n)
     const sentences = inputs.slice(1, n+1)
